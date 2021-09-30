@@ -1,16 +1,16 @@
 import React from 'react'
-/*import { ProjectHome } from './Project/ProjectHome'
+import { ProjectHome } from './Project/ProjectHome'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 //import ProjectSettings from './Project/ProjectSettings'
 import projectAbout from './Project/projectAbout'
 import Home from './Project/Home'
-import Project from "./Project/Project";npm install @mui/material @emotion/react @emotion/styled*/
+import Project from "./Project/Project";
 
 import NewHeader from './NEW/NewHeader'
 import styled from "styled-components"
 
 
-/*const App = () => {
+const App = () => {
   return (
     <Router>
       <ProjectHome/>
@@ -26,7 +26,7 @@ import styled from "styled-components"
   )
 }
 
-export default App*/
+export default App
 
 const App = () => {
   return(
